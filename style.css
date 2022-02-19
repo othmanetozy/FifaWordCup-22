@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;1,100&family=Roboto:wght@900&display=swap');
+*{
+    box-sizing: border-box;
+
+}
+body{
+    margin: 0;
+    font-family: 'loto', sans-herif;
+    background-image: url("./Stadium.jpg  ");
+    background-size: cover;
+    background-position:  center center;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column ;
+    align-items: center;
+    
+    
+}
+
+.fifaWOrdCup{
+    display: flex ;
+    flex-wrap: wrap;
+    align-items: center ;
+    justify-content: center;
+}
+h1{
+    font-size: 4rem;
+    margin-top: -10rem;
+    font-weight: normal;
+    margin-top: 4rem;
+}
+
+
+
+.big-text{
+    font-size: 6rem;
+    line-height: 1;
+    margin: 0 2rem  ;
+    font-weight: bold   ;
+}
+
+.ctd-e {
+    text-align: center;
+}
+.ctd-e span{
+    font-size: 1.3rem;
+}
+h3{
+    
+      margin-top:2rem ;
+      font-size: xx-large;
+}
